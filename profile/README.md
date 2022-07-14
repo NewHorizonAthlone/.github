@@ -12,7 +12,7 @@ We are currently rebuilding [New Horizon Athlone.ngo](http://newhorizonathlone.n
 - [SASS](https://sass-lang.com/)
 - [@wordpress/scripts](https://www.npmjs.com/package/@wordpress/scripts)
 
-We are a small team Following a basic Agile & Waterfall methodologies.
+We are a small team following basic Agile & Waterfall methodologies.
 
 
 
