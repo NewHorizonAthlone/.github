@@ -11,6 +11,7 @@ We are currently rebuilding [New Horizon Athlone NGO](http://newhorizonathlone.n
 - <a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/aleen42/badges/master/src/react.svg" /></a> 
 - [SASS](https://sass-lang.com/)
 - [@wordpress/scripts](https://www.npmjs.com/package/@wordpress/scripts)
+- [gitflow-workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 We are a small team following basic Agile & Waterfall methodologies.
 
