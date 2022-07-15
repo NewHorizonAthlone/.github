@@ -23,3 +23,4 @@ We are currently rebuilding our site [New Horizon Athlone NGO](http://newhorizon
 - [SASS](https://sass-lang.com/)
 - [@wordpress/scripts](https://www.npmjs.com/package/@wordpress/scripts)
 - [gitflow-workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [WordPress 6](https://wordpress.org/support/wordpress-version/version-6-0/)
