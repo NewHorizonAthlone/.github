@@ -20,3 +20,5 @@ Principal Software Architect - Full Stack: [Stephen ♔ Ó Conchubhair](https://
 Cyber Security Program Delivery Lead: [Martin Parsons](https://github.com/martydotcom)
 
 Product Owner / Lead Content Administor: [Gerry Callaghan](https://newhorizonathlone.org/members/gerry/)
+
+Project Manager: [Cormac Mac Giolla Éain](https://github.com/orgs/NewHorizonAthlone/people/crowmack)
