@@ -16,5 +16,7 @@ We are currently rebuilding our site [New Horizon Athlone NGO](http://newhorizon
 We are a small team following basic Agile & Waterfall methodologies.
 
 Principal Software Architect - Full Stack: [Stephen ♔ Ó Conchubhair](https://github.com/theWhiteFox)
+
 Cyber Security Program Delivery Lead: [Martin Parsons](https://github.com/martydotcom)
+
 Project Owner / Lead Content Administor: [Gerry Callaghan](https://newhorizonathlone.org/members/gerry/)
