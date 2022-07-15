@@ -24,4 +24,5 @@ Project Manager: [Cormac Mac Giolla Éain](https://github.com/orgs/NewHorizonAth
 - [SASS](https://sass-lang.com/)
 - [@wordpress/scripts](https://www.npmjs.com/package/@wordpress/scripts)
 - [gitflow-workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [PHP](https://www.php.net/)
 - [WordPress 6](https://wordpress.org/support/wordpress-version/version-6-0/)
