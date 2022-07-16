@@ -18,7 +18,7 @@ Product Owner / Lead Content Administor: [Gerry Callaghan](https://newhorizonath
 
 Project Manager: [Cormac Mac Giolla Éain](https://github.com/orgs/NewHorizonAthlone/people/crowmack)
 
-## We are currently rebuilding our site [New Horizon Athlone NGO](http://newhorizonathlone.ngo) using 
+## We are currently rebuilding our site [New Horizon Athlone NGO](https://newhorizonathlone.ngo) using 
 
 | Dev Stack  |  |  |
 | ------------- | ------------- | ------------- |
