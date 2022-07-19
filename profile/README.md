@@ -7,8 +7,7 @@ Our main focus is on almost 350 residents in Direct Provision sites in Athlone a
 
 New Horizon is a fully registered charity RCN: 20204649. Check us out on the [Charity Regulator Website](https://www.charitiesregulator.ie/en/information-for-the-public/search-the-register-of-charities/charity-detail?srchstr=new%20horizon%20athlone&regid=20204649)
 
-## We are a small team following basic Agile & Waterfall methodologies.
-
+## We are a small growing team following basic Agile & (when necessary) Waterfall methodologies.
 
 Principal Software Architect - Full Stack: [Stephen ♔ Ó Conchubhair](https://github.com/theWhiteFox)
 
