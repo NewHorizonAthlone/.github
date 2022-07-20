@@ -15,7 +15,7 @@ Cyber Security Program Delivery Lead: [Martin Parsons](https://github.com/martyd
 
 Product Owner / Lead Content Administor: [Gerry Callaghan](https://newhorizonathlone.org/members/gerry/)
 
-Project Manager: [Cormac Mac Giolla Éain](https://github.com/orgs/NewHorizonAthlone/people/crowmack)
+[Cormac Mac Giolla Éain](https://github.com/orgs/NewHorizonAthlone/people/crowmack)
 
 ## We are currently rebuilding our site [New Horizon Athlone NGO](https://newhorizonathlone.ngo) using 
 
