@@ -25,5 +25,7 @@ Product Owner / Lead Content Administor: [Gerry Callaghan](https://newhorizonath
 | [SASS](https://sass-lang.com/)  | [@wordpress/scripts](https://www.npmjs.com/package/@wordpress/scripts) | [PHP 8](https://www.php.net/) |
 | [WordPress 6](https://wordpress.org/support/wordpress-version/version-6-0/) | [MySQL](https://www.mysql.com/)  | [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) |
 
-
-- [AWS CodeDeploy CodePipeline deploy Git](https://aws.amazon.com/blogs/compute/using-aws-codedeploy-and-aws-codepipeline-to-deploy-applications-to-amazon-lightsail/)
+### Useful links
+* https://docs.bitnami.com/aws/faq/get-started/access-phpmyadmin/
+* https://lightsail.aws.amazon.com/ls/docs/en_us/articles/amazon-lightsail-connecting-to-linux-unix-instance-using-sftp
+* [AWS CodeDeploy CodePipeline deploy Git](https://aws.amazon.com/blogs/compute/using-aws-codedeploy-and-aws-codepipeline-to-deploy-applications-to-amazon-lightsail/)
