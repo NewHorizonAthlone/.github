@@ -23,5 +23,5 @@ Product Owner / Lead Content Administor: [Gerry Callaghan](https://newhorizonath
 | ------------- | ------------- | ------------- |
 | <a href="https://aws.amazon.com/"><img alt="AWS" width="40" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" /></a>   | <a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/aleen42/badges/master/src/react.svg" /></a> | [gitflow-workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) | 
 | [SASS](https://sass-lang.com/)  | [@wordpress/scripts](https://www.npmjs.com/package/@wordpress/scripts) | [PHP 8](https://www.php.net/) |
-| [WordPress 6](https://wordpress.org/support/wordpress-version/version-6-0/) | [MySQL](https://www.mysql.com/)  | [Cloudflare](https://www.cloudflare.com/en-gb/)  |
+| [WordPress 6](https://wordpress.org/support/wordpress-version/version-6-0/) | [MySQL](https://www.mysql.com/)  | [Cloudflare](https://www.cloudflare.com/en-gb/)  | [Devs Google tag manager](https://developers.google.com/tag-platform/tag-manager) |
 
