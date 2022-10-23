@@ -11,11 +11,9 @@ New Horizon is a fully registered charity RCN: 20204649. Check us out on the [Ch
 
 Principal Software Architect - Full Stack: [Stephen ♔ Ó Conchubhair](https://github.com/theWhiteFox)
 
-Cyber Security Program Delivery Lead: [Martin Parsons](https://github.com/martydotcom)
-
 Product Owner / Lead Content Administor: [Gerry Callaghan](https://newhorizonathlone.org/members/gerry/)
 
-[Cormac Mac Giolla Éain](https://github.com/orgs/NewHorizonAthlone/people/crowmack)
+Content Administor: [Martin Parsons](https://github.com/martydotcom)
 
 ## We are currently rebuilding our site [New Horizon Athlone NGO](https://newhorizonathlone.ngo) using 
 
