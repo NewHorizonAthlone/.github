@@ -1,7 +1,7 @@
-# New Horizon
+# New Horizon Refugee & Asylum Seeker Support
 ## Hi there 👋
 
-🙋‍♀️ New Horizon is a community group which has been working with international protection applicants in Athlone since 2000. 
+🙋‍♀️ New Horizon Refugee & Asylum Seeker Support is a community group which has been working with international protection applicants in Athlone since 2000. 
 
 Our main focus is on almost 350 residents in Direct Provision sites in Athlone and Horseleap, Moate. 
 
