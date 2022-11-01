@@ -9,11 +9,11 @@ New Horizon is a fully registered charity RCN: 20204649. Check us out on the [Ch
 
 ## We are a small growing team following basic Agile & (when necessary) Waterfall methodologies.
 
-Principal Software Architect - Full Stack: [Stephen ♔ Ó Conchubhair](https://github.com/theWhiteFox)
+Principal Software Architect - Full Stack: [Stephen ♔ Ó Conchubhair](https://github.com/theWhiteFox) email [stephen@newhorizonathlone.ngo](mailto:stephen@newhorizonathlone.ngo?subject=[GitHub]%20Source%20Han%20Sans)
 
 Product Owner / Lead Content Administor: [Gerry Callaghan](https://newhorizonathlone.org/members/gerry/)
 
-Content Administor: [Martin Parsons](https://github.com/martydotcom)
+Front End Dev UX Nijo Jose 
 
 ## We are currently rebuilding our site [New Horizon Athlone NGO](https://newhorizonathlone.ngo) using 
 
